@@ -1,5 +1,12 @@
 ## Rock Paper Scissors Game
 
+### How I did it?
+
+- I use circle technique, so SCISSORS Stronger than PAPER Stronger than ROCK Stronger than Stronger (circle), so it's dynamic you can add new status in circle
+
+![https://en.wikipedia.org/wiki/Rock_paper_scissors#/media/File:Rock-paper-scissors.svg](./img.png) 
+
+
 ### How to run
 
 - Install Java 21, for example
